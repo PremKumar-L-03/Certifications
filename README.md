@@ -37,8 +37,8 @@ certifications/
 
 ## 📬 Connect With Me
 
-- **GitHub:** [Your GitHub Profile](https://github.com/)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/)
+- **GitHub:** [PremKumar-L-03]https://github.com/PremKumar-L-03
+  
 
 ---
 
